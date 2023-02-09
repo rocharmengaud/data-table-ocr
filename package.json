@@ -1,6 +1,6 @@
 {
   "name": "@blacksushi/data-table-ocr",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "main": "dist/index.js",
   "files": [
     "dist",
